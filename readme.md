@@ -15,3 +15,7 @@ pip install streamlit
 ```bash
 streamlit run app.py
 ```
+### Universidad Autónoma de Chihuahua
+### MIC 2 Facultad de Ingeniería
+### MACHINE LEARING
+#### Maritrini Velázquez Ruiz 329675
