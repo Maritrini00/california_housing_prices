@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st 
+import sklearn
 from sklearn import preprocessing
 import joblib
 from sklearn.linear_model import LinearRegression
